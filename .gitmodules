@@ -1,0 +1,3 @@
+[submodule "packr-demo"]
+	path = packr-demo
+	url = https://github.com/rongfengliang/packr-demo.git

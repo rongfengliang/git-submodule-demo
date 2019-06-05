@@ -1,1 +1,1 @@
-# main repo demo
+# git submodule demo
